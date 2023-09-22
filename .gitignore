@@ -1,0 +1,8 @@
+file1
+file2
+sample/
+*.json
+*.xml
+*-*.yml
+README.md
+index.html
